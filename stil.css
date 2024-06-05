@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	color :black;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size:	20px;
+	line-height: 23px;
+	width: 1000px;
+	background-color:#1AF1FF;
+	padding: 27px;
+		} 
+
+
+h2,h1 {
+	
+font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	color: mediumvioletred;
+}
+
+a:link{color: black;
+background-color: blue;
+	padding: 10px;
+	line-height: 70px;
+	border: 3px solid #120212;
+
+}
+a:hover{
+	background-color:yellow;
+	
+}
+img{
+height: 300px;	
+
+}
+body{
+	background-color: #F9F285
+}
